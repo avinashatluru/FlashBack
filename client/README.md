@@ -1,0 +1,1 @@
+This project is a MERN stack application that follows the CRUD method for handling posts on a dashboard. Users can create, read, update, and delete their own posts. Users can also sign in through an authentication method that provides google sign in as well as a local option. 
